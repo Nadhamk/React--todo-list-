@@ -1,0 +1,71 @@
+.add-btn{
+    background-color: rgb(0, 102, 255);
+    color: white;
+    padding: 10px;
+    width: 75px;
+    border: white;
+    border-radius: 15px;
+    cursor: pointer;
+
+}
+
+.dlt {
+    /* margin-left: 1em; */
+    background-color: rgb(255, 0, 21);
+    color: white;
+    padding: 7px;
+    border: white;
+    border-radius: 15px;
+    cursor: pointer;
+    float: right;
+}
+
+input {
+    border-radius: 10px;
+    border: rgb(192, 173, 173);
+    font-size: 1.2em;
+    font-weight: bold;
+    color: black;
+    padding: .5em;
+    margin: 1em;
+    width: 85%;
+
+}
+
+.todo-container {
+    background-color: rgb(153, 178, 170);
+    width: 70vw;
+    margin: 5em auto;
+    border-radius: 10px;
+    padding: 15px;
+    color: white;
+}
+
+.list-task {
+    font-size: 1.25em;
+    font-weight: bold;
+    font-style: italic;
+    color: white;
+    background-color: rgb(67, 109, 110);
+    border-radius: 10px;
+    padding: 0.9em;
+    margin: 0.5em;
+
+}
+
+.header{
+    font-size: 2em;
+    text-align: center;
+
+}
+
+.input-container {
+    /* background-color: rgb(110, 151, 138); */
+    font-size: 1.25em;
+    font-weight: bold;
+    font-style: italic;
+    color: white;
+    padding: 0.5em;
+    border-radius: 1em;
+    
+}
